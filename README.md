@@ -40,8 +40,6 @@ This project is designed to impress with glowing effects, scroll-triggered anima
 👨‍💻 Author
 Ishan Sharma
 
-ishansharma2511@gmail.com
-
 📝 License
 This project is created for educational purposes. Free to use and modify.
 
